@@ -1,7 +1,3 @@
-# jironis
-
-> Jironis - Vue Nuxt App Landing One Page Template
-
 ## Build Setup
 
 ``` bash
